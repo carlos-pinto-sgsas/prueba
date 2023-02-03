@@ -5,6 +5,10 @@ import java.awt.*;
 
 import java.io.*;
 
+/*
+Clase para contruir Edificios 
+*/
+
 public class Edificio implements Serializable
 {
        Point ini;
